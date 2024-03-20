@@ -1,3 +1,5 @@
+# Sentiment Analysis on Twitter Data using Deep Learning & NLP
+
 In this project,  set out to address Twitter sentiment analysis by utilizing deep learning methods
 and placing a strong emphasis on the BERT model. In order to further the automatic categorization of
 tweets into positive and negative emotions, we investigated using the "Sentiment140" dataset, which
